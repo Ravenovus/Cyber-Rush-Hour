@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="high_scores">טבלאת שיאים</string>
+    <string name="app_name">Cyber Rush Hour</string>
+    <string name="new_game">משחק חדש</string>
+    <string name="quit">יציאה</string>
+    <string name="daily_challenge">האתגר היומי</string>
+    <string name="save">שמור</string>
+    <string name="insert_name_here">הכנס שם כאן</string>
+    <string name="back_without_saving">יציאה ללא שמירה</string>
+    <string name="give_up">נכנע</string>
+    <string name="missing_name_string">בבקשה הכנס שם</string>
+    <string name="failed_to_load">נכשל בטעינה</string>
+    <string name="hard">קשה</string>
+    <string name="easy">קל</string>
+    <string name="medium">בינוני</string>
+</resources>

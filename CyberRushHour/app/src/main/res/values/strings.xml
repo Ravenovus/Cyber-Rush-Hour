@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cyber Rush Hour</string>
+    <string name="new_game">New Game</string>
+    <string name="high_scores">High Scores</string>
+    <string name="quit">Quit</string>
+    <string name="daily_challenge">Daily Challenge</string>
+    <string name="save">Save</string>
+    <string name="insert_name_here">Insert Name Here</string>
+    <string name="back_without_saving">Back Without Saving</string>
+    <string name="give_up">Give Up</string>
+    <string name="missing_name_string">Please insert Name</string>
+    <string name="failed_to_load">Failed To Load</string>
+    <string name="hard">Hard</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563411302044",
+    "project_id": "cyberrushhour",
+    "storage_bucket": "cyberrushhour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563411302044:android:6f78b9a5f4792dacf2df59",
+        "android_client_info": {
+          "package_name": "il.ac.hit.cyberrushhour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563411302044-r5b5ihrtmfr511cemmprv7cc5jd98poj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdMzhx-bVucx4r2EH51B-uNXpaJw9tUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563411302044-r5b5ihrtmfr511cemmprv7cc5jd98poj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
